@@ -9,5 +9,8 @@
         <module name="ex2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ex2" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

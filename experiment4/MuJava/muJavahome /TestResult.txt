@@ -1,0 +1,15 @@
+BubbleSortTest
+
+
+======================================== Generating Original Test Results ========================================
+null
+
+
+======================================== Executing Mutants ========================================
+test report: {}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+[Notice] There are no mutants to apply
